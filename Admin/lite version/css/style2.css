@@ -1,0 +1,33 @@
+.form_admin{
+
+	margin-bottom: 160px;
+	margin-top: 56px;
+
+}
+.form-control{
+	margin-bottom: 36px;
+	border-radius: 25px;
+}
+.btn-primary{
+	margin-top: 36px;
+	align-items: center;
+	text-align: center;
+	float: right;
+	font-size: 19px;
+	border-radius: 23px;
+	background-color: #FF007F;
+	border-color:  #FF007F;
+	
+}
+.lora-lora textarea:focus{
+outline:none !important;
+}
+.lora-lora textarea{
+	border:none;
+	background-color: transparent;
+	resize: none;
+	outline: none;
+	pointer-events: none;
+
+
+}
